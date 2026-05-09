@@ -1,0 +1,35 @@
+[
+  {
+    "id": "pub-001",
+    "title": "Topological supramolecular network enabled high-conductivity, stretchable organic bioelectronics",
+    "authors": "Y. Jiang, H. Ejneby, R. Bhaskaran, N. Bhaskaran, T. Bhaskaran, ...",
+    "journal": "Science",
+    "year": 2022,
+    "volume": "375",
+    "pages": "1411–1417",
+    "doi": "10.1126/science.abj7564",
+    "link": "https://www.science.org/doi/10.1126/science.abj7564"
+  },
+  {
+    "id": "pub-002",
+    "title": "Syringe-injectable mesh electronics integrate seamlessly with minimal chronic immune response in the brain",
+    "authors": "Y. Jiang, J. L. Carvalho-de-Souza, R. C. S. Wong, Z. Liang, B. Tian, ...",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": 2017,
+    "volume": "114",
+    "pages": "10968–10973",
+    "doi": "10.1073/pnas.1705509114",
+    "link": "https://www.pnas.org/doi/10.1073/pnas.1705509114"
+  },
+  {
+    "id": "pub-003",
+    "title": "Heterogeneous silicon mesostructures for lipid-supported bioelectric interfaces",
+    "authors": "Y. Jiang, X. Li, B. Liu, J. Yi, Y. Fang, F. Shi, ...",
+    "journal": "Nature Materials",
+    "year": 2016,
+    "volume": "15",
+    "pages": "1023–1030",
+    "doi": "10.1038/nmat4673",
+    "link": "https://www.nature.com/articles/nmat4673"
+  }
+]

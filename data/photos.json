@@ -1,0 +1,20 @@
+[
+  {
+    "id": "photo-001",
+    "monthYear": "2025-03",
+    "caption": "Group outing at Penn campus",
+    "image": "/images/photos/2025-03-group-outing.jpg"
+  },
+  {
+    "id": "photo-002",
+    "monthYear": "2024-12",
+    "caption": "Holiday celebration dinner",
+    "image": "/images/photos/2024-12-holiday.jpg"
+  },
+  {
+    "id": "photo-003",
+    "monthYear": "2024-08",
+    "caption": "MRS Fall Meeting conference",
+    "image": "/images/photos/2024-08-mrs-meeting.jpg"
+  }
+]

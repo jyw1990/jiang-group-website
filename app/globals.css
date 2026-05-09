@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+:root {
+  --penn-blue: #011F5B;
+  --penn-red: #990000;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Inter, system-ui, sans-serif;
+  color: #1a1a1a;
+  background: #f9fafb;
+}

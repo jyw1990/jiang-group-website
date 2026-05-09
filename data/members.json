@@ -1,0 +1,57 @@
+{
+  "faculty": [
+    {
+      "id": "yuanwen-jiang",
+      "name": "Yuanwen Jiang",
+      "title": "Assistant Professor of Materials Science and Engineering",
+      "email": "ywjiang@seas.upenn.edu",
+      "photo": "/images/members/yuanwen-jiang.jpg",
+      "bio": "Dr. Yuanwen Jiang is an Assistant Professor in the Department of Materials Science and Engineering at the University of Pennsylvania. His research focuses on bioelectronics, with an emphasis on developing new materials and devices for interfacing electronics with biological systems.",
+      "website": "https://jianggroup.seas.upenn.edu"
+    }
+  ],
+  "postdocs": [
+    {
+      "id": "postdoc-placeholder",
+      "name": "Postdoctoral Scholar (Placeholder)",
+      "email": "postdoc@seas.upenn.edu",
+      "photo": "/images/members/placeholder.jpg",
+      "bio": "Research interests in bioelectronics and nanomaterials."
+    }
+  ],
+  "phd_students": [
+    {
+      "id": "phd-placeholder-1",
+      "name": "PhD Student (Placeholder)",
+      "email": "phd1@seas.upenn.edu",
+      "photo": "/images/members/placeholder.jpg",
+      "bio": "Working on injectable bioelectronic devices for neural interfacing."
+    }
+  ],
+  "masters_students": [
+    {
+      "id": "ms-placeholder-1",
+      "name": "Master's Student (Placeholder)",
+      "department": "Materials Science and Engineering",
+      "email": "ms1@seas.upenn.edu",
+      "photo": "/images/members/placeholder.jpg"
+    }
+  ],
+  "undergrad_students": [
+    {
+      "id": "ug-placeholder-1",
+      "name": "Undergraduate Student (Placeholder)",
+      "department": "Bioengineering",
+      "email": "ug1@seas.upenn.edu",
+      "photo": "/images/members/placeholder.jpg"
+    }
+  ],
+  "high_school_students": [
+    {
+      "id": "hs-placeholder-1",
+      "name": "High School Student (Placeholder)",
+      "school": "Central High School",
+      "photo": "/images/members/placeholder.jpg"
+    }
+  ]
+}

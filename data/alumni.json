@@ -1,0 +1,11 @@
+[
+  {
+    "id": "alumni-placeholder-1",
+    "name": "Alumni Member (Placeholder)",
+    "role": "PhD Student",
+    "beginYear": 2019,
+    "exitYear": 2024,
+    "currentPosition": "Postdoctoral Researcher, MIT",
+    "photo": "/images/members/placeholder.jpg"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "injectable-bioelectronics",
+    "title": "Injectable Bioelectronics",
+    "description": "We develop injectable, mesh-like bioelectronic devices that can be delivered through a syringe and self-deploy inside targeted biological tissues. These ultraflexible devices seamlessly integrate with the host tissue and enable chronic, stable recording and stimulation of neural activity.",
+    "image": "/images/research/injectable-bioelectronics.jpg",
+    "carouselImage": "/images/research/injectable-bioelectronics-carousel.jpg"
+  },
+  {
+    "id": "organic-bioelectronics",
+    "title": "Organic Bioelectronic Materials",
+    "description": "We design and synthesize organic electronic materials with tailored mixed ionic-electronic conductivity, mechanical compliance, and biocompatibility for next-generation bioelectronic devices.",
+    "image": "/images/research/organic-bioelectronics.jpg",
+    "carouselImage": "/images/research/organic-bioelectronics-carousel.jpg"
+  },
+  {
+    "id": "neural-interfaces",
+    "title": "Neural Interfaces",
+    "description": "We create high-density, minimally invasive neural interfaces that can record from thousands of individual neurons simultaneously over extended time periods, enabling new insights into how the brain encodes and processes information.",
+    "image": "/images/research/neural-interfaces.jpg",
+    "carouselImage": "/images/research/neural-interfaces-carousel.jpg"
+  }
+]
