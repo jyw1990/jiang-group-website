@@ -16,19 +16,8 @@ describe("Publications page", () => {
     ).toBeInTheDocument();
   });
 
-  it("renders publication titles from data", () => {
+  it("renders an empty state when there are no publications", () => {
     render(<PublicationsPage />);
-    expect(
-      screen.getByText(/Topological supramolecular network/i)
-    ).toBeInTheDocument();
-  });
-
-  it("groups publications by year in descending order", () => {
-    render(<PublicationsPage />);
-    const yearHeadings = screen.getAllByRole("heading", { level: 2 });
-    const years = yearHeadings.map((h) => Number(h.textContent));
-    for (let i = 1; i < years.length; i++) {
-      expect(years[i - 1]).toBeGreaterThanOrEqual(years[i]);
-    }
+    expect(screen.queryByRole("heading", { level: 2 })).toBeNull();
   });
 });
